@@ -1,0 +1,17 @@
+.app__header{
+    width: 100%;
+    display: flex;
+}
+
+.app__header-home{
+    width: 60%;
+    float: right;
+    padding-left:9rem;
+}
+
+.app__header-icons{
+    width: 45%;
+    float: left;
+    justify-content: end ;
+    padding-left:33rem;
+}

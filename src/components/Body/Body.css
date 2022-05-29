@@ -1,0 +1,126 @@
+.app__body{
+    background: linear-gradient(180deg,rgba(5, 11, 20, 0.28) 0%,  rgba(1, 13, 32, 0.69) 0%, #0A0B1A 0%);
+}
+.app__body-head h2{
+    width: 88%;
+    float: left;
+    padding-left: 8rem;
+    text-decoration:solid;
+    margin-top: 7.2rem;
+}
+
+.app__body-head{
+    display: flex;
+}
+
+h3{
+    width: 12%;
+    float: right;
+    margin-top:7.5rem;
+}
+hr{
+    width: 48px;
+    height: 3px; 
+
+    background: #0259EB;
+    border-radius: 16px;
+    margin-left:0.2rem;
+
+}
+.app__body-mid{
+    display:flex;
+    justify-content: space-evenly;
+    
+   
+    
+}
+.card{
+    width: 268px;
+    height:387px;
+    border-radius: 8px;
+    box-shadow: 6px -6px  #301A68;
+    margin-left: 3rem;
+    
+}
+.card1{
+    width: 268px;
+    height:387px;
+    border-radius: 8px;
+    box-shadow:6px -6px   #301A68;
+}
+.card2{
+    width: 268px;
+    height:387px;
+    border-radius: 8px;
+    box-shadow: 6px -6px   #301A68;
+}
+.card3{
+    width: 268px;
+    height:387px;
+    border-radius: 8px;
+    box-shadow: 6px -6px   #301A68;
+}
+.line{
+    width:1px;
+    height:32px ;
+    background: rgba(255,255,255,0.2);
+    margin-left:4rem;
+    
+    
+}
+.app__body-review h2{
+    width: 85%;
+    float: left;
+    padding-left: 8rem;
+    text-decoration:solid;
+    margin-top: 7rem;
+    margin-bottom: 0rem;
+}
+.app__body-review hr{
+    width: 48px;
+    height: 3px; 
+
+    background: #0259EB;
+    border-radius: 16px;
+    
+
+}
+
+.app__body-review{
+    margin-bottom: 3rem;
+}
+.app__body-reviewcard{
+    display:flex;
+    justify-content: space-evenly;
+}
+    
+.review1{
+    border:2px solid;
+    border-color: #E5C558;
+    border-radius: 8px;
+    box-shadow: 8px -8px #276C73;
+    margin-bottom:5rem;
+}
+.review-wrap{
+    display: flex;
+    align-items: center;
+    margin-left: 8rem;
+    margin-top: 4rem;
+    justify-items: center;
+}
+
+.reviews{
+    width: 90%;
+    float: left;
+}
+.reviews hr{
+    margin-top:0.5rem;
+}
+
+.num{
+    width: 20%;
+    float: right;
+    display: flex;
+    align-items: center;
+    margin-bottom:2rem;
+}
